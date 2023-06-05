@@ -20,14 +20,11 @@ If y represents the dependent variable and x the independent variable, this rela
 ![image](https://user-images.githubusercontent.com/104613195/168225866-ac8f6610-bdc3-4ac2-a24e-2b24ba08e189.png)
 
 # Program :
-
+```
 Developed by: Meena S
 Register Number: 212221240028
-
-
-DEVELOPED BY : Nivetha M
-REGISTER NO : 212221240034
-
+```
+```
 import numpy as np
 import math
 import matplotlib.pyplot as plt
@@ -61,10 +58,11 @@ plt.xlabel('x-data')
 plt.ylabel('y-data')
 plt.legend(['Regression Line','Data points'])
 
-
+```
 
 # Output 
-![image]("C:\Users\DELL\Downloads\pqm.png")
+![pqm](https://github.com/MEENA155/Correlation_Regression/assets/94677128/2b244bee-30f9-48d9-9a17-407aa83c6717)
+
 
 # Result
 The Correlation and regression for data analysis of objects from feeder using probability distribution are calculated
